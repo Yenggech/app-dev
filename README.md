@@ -1,7 +1,7 @@
 ### app-dev
 ## My first repository
 
-**Series:**
+*Series:*
 1. *One Piece*
 2. *Bocchi The Rock*
 3. *My Dress-Up Darling*
