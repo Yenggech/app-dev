@@ -1,12 +1,12 @@
-# app-dev
-My first repository
+### app-dev
+## My first repository
 
-- **Series**
-- *One Piece*
-- *Bocchi The Rock*
-- *My Dress-Up Darling*
+**Series:**
+1. *One Piece*
+2. *Bocchi The Rock*
+3. *My Dress-Up Darling*
 
-- **Manga**
+**Manga:**
 - *Citrus*
 - *Whisper Me A Love Song*
 - *Sakura Trick*
